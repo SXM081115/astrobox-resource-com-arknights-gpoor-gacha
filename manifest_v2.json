@@ -43,14 +43,14 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.2.3",
-      "file_name": "downloads/com.arknights.gpoor.gacha.release.1.2.3.rpk",
-      "versionCode": 1
+      "version": "1.2.2",
+      "file_name": "downloads/com.arknights.gpoor.gacha.release.1.2.2.rpk",
+      "versionCode": 2
     },
     "xmb9p": {
-      "version": "1.2.3",
-      "file_name": "downloads/com.arknights.gpoor.gacha.release.1.2.3.rpk",
-      "versionCode": 1
+      "version": "1.2.2",
+      "file_name": "downloads/com.arknights.gpoor.gacha.release.1.2.2.rpk",
+      "versionCode": 2
     }
   },
   "ext": {}
