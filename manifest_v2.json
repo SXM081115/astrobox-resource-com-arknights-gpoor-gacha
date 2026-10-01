@@ -3,7 +3,7 @@
     "id": "com.arknights.gpoor.gacha",
     "restype": "quick_app",
     "name": "明日方舟抽卡模拟",
-    "description": "明日方舟新人特惠卡池(G)正式开放 高仿真抽卡模拟!\n1.3.0版本更新:\n为所有干员添加了完整的档案信息,优化了档案阅读体验.",
+    "description": "明日方舟新人特惠卡池(G)正式开放 高仿真抽卡模拟!\n\n1.3.1版本更新:\n修复部分干员档案错误,优化UI.感谢大家的反馈!\n\n\n1.3.0版本更新:\n为所有干员添加了完整的档案信息,优化了档案阅读体验.",
     "preview": [
       "media/xiaomi_band_pro-2026-09-27-11-31-13.png",
       "media/xiaomi_band_pro-2026-09-27-11-31-22.png",
@@ -44,13 +44,13 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "1.3.0",
-      "file_name": "downloads/com.arknights.gpoor.gacha.release.1.3.0.rpk",
+      "version": "1.3.1",
+      "file_name": "downloads/com.arknights.gpoor.gacha.release.1.3.1.rpk",
       "versionCode": 1
     },
     "xmb9p": {
-      "version": "1.3.0",
-      "file_name": "downloads/com.arknights.gpoor.gacha.release.1.3.0.rpk",
+      "version": "1.3.1",
+      "file_name": "downloads/com.arknights.gpoor.gacha.release.1.3.1.rpk",
       "versionCode": 1
     }
   },
